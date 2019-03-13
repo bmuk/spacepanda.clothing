@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "spacepanda.clothing",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build"
+    }
+  ]
+}
